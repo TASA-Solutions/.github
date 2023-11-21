@@ -1,2 +1,1 @@
-# TASA Global Solutions Sdn Bhd [![Twitter](https://scootix-prod-open.s3.ap-southeast-1.amazonaws.com/assets/tasa-tagline-experience.png)](https://tasaglobal.com.my/)
-
+# TASA Global Solutions Sdn Bhd [![TASA](https://tasa-general-assets.s3.ap-southeast-1.amazonaws.com/tasa-bg-01.jpeg)](https://tasa.com.my/)
